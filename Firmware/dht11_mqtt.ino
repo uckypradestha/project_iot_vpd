@@ -19,9 +19,9 @@
 #include <DHT.h>
 
 // ====== KONFIGURASI (SESUAIKAN) ======
-const char* WIFI_SSID   = "HelloWorld!";
-const char* WIFI_PASS   = "1sampai9";
-const char* MQTT_SERVER = "192.168.198.15";   // IP laptop/PC yang menjalankan Mosquitto
+const char* WIFI_SSID   = "NAMA_WIFI";
+const char* WIFI_PASS   = "PASSWORD";
+const char* MQTT_SERVER = "192.xxx.xxx.xx";   // IP laptop/PC yang menjalankan Mosquitto
 const uint16_t MQTT_PORT = 1883;
 
 const char* CLIENT_ID    = "esp8266-dht11-01";
