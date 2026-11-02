@@ -1,7 +1,5 @@
 # Smart Farming CEA (Controlled Environment Agriculture)
 
-<img width="1280" height="551" alt="images" src="https://github.com/user-attachments/assets/479b009d-5d23-4a10-903c-42431a09ba0f" />
-
 Controlled Environment Agriculture (CEA) adalah sistem budidaya yang lingkungan udara (aerial) dan zona perakaran (root zone)-nya dikelola secara teknis dan terukur agar pertumbuhan, hasil, kualitas, serta efisiensi sumber daya dapat dioptimalkan sepanjang tahun.
 
 CAE Merupakan pendekatan atau budidaya pertanian di lahan tertutup. Pengendalian dilakukan dengan prinsip ukur – putuskan – eksekusi (sense – decide – act): sensor mengukur kondisi aktual, pengendali membandingkannya dengan target, lalu aktuator mengoreksi selisihnya.
@@ -14,6 +12,13 @@ CAE Merupakan pendekatan atau budidaya pertanian di lahan tertutup. Pengendalian
 | **Plant Factory / Vertical Farm (PFAL)** | Ruangan tertutup dengan rak bertingkat | Menggunakan lampu LED, HVAC, dan rak bertingkat | Hampir penuh |
 | **Hidroponik / Aeroponik / NFT / DFT** | Sistem budidaya tanpa tanah | Nutrisi dalam larutan; root zone dikendalikan melalui EC, pH, suhu, dan DO | Tinggi pada root zone |
 | **Akuaponik dan RAS (Aquaculture)** | Sistem budidaya ikan dan tanaman terintegrasi | Resirkulasi air; kualitas air (suhu, DO, pH, dan amonia) dikendalikan dan diintegrasikan dengan tanaman | Tinggi pada kualitas air |
+
+# Parameter Lingkungan Budidaya
+<ul>
+   <li>Parameter lingkungan budidaya adalah faktor-faktor fisik, kimia, dan biologi yang diukur dan dikendalikan untuk mendukung pertumbuhan serta kelangsungan hidup organisme budidaya (seperti ikan, udang, atau tanaman).</li>
+   <li>Dalam konteks agronomi, parameter lingkungan budidaya tanaman adalah seluruh kondisi biofisik di sekitar tanaman yang memengaruhi proses fotosintesis, respirasi, penyerapan hara, dan transpirasi tanaman.</li>
+   <li>Contohnya Mikroklimat, Vapor Pressure Deficit (VPD), Pencahayaan dan Root Zone</li>
+</ul>
 
 # Langkah-langkah Konfigurasi Project Dengan IoT
 
